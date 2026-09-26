@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "collide": {
+      "type": "http",
+      "url": "https://mcp.collidemcp.com"
+    }
+  }
+}
